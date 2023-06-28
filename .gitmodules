@@ -1,16 +1,11 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "celltrackR"]
 	path = celltrackR
 	url = https://github.com/cran/celltrackR
-	shallow = true
-	registered = true
 [submodule "dagitty"]
 	path = dagitty
 	url = https://github.com/jtextor/dagitty
-	shallow = true
 	subdir = r
-	registered = true
